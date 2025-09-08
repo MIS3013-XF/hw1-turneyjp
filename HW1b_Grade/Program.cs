@@ -1,7 +1,7 @@
 ﻿// HW1b Grade
 
-// Your Name:
-// Did you seek help ? If yes, specify the helper or web link here: 
+// Your Name: Peyton TUrney
+// Did you seek help ? If yes, specify the helper or web link here: No outside help. 
 
 using System;
 using System.Collections.Generic;
